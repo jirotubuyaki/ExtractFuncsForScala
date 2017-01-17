@@ -1,6 +1,6 @@
 # Functions Extractor for Scala Source Codes  
 ### Introduction
- This Scala program extracts functions as defined by "def" and save output in a *.txt file.  
+ This Scala program extracts functions as defined by "def" and saves output in a *.txt file.  
  
 ### Install
  Please use SBT file in order to compile and run this program.  
